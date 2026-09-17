@@ -23,6 +23,10 @@
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dheerajeshwar32&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
+
 </div>
 
 ---
