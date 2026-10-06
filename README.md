@@ -4,7 +4,7 @@
 
 # Nagula Dheeraj Eshwar Prudhvi
 
-### Web Architecture · Generative AI · Cloud Computing
+### Web Architecture • Generative AI • Cloud Computing
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(Core)+%40+VIT+Vellore;Building+Cloud-Native+%26+Edge+Systems;GenAI+%2B+WebAssembly+Architecture;Turning+CS+Fundamentals+into+Production" alt="Typing SVG" />
 
@@ -19,55 +19,17 @@
 <a href="https://codeforces.com/profile/dheeraj32">
 <img src="https://img.shields.io/badge/Codeforces-dheeraj32-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-<a href="mailto:dheerajeshwarnagula@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=dheerajeshwar32&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS"/>
+<p align="center">
+  <br/>
+  <i>Computer Science undergrad at VIT Vellore (Expected 2028). I specialize in designing and engineering high-performance systems—bridging the gap between raw hardware constraints and scalable cloud-native architectures. Currently exploring the frontiers of Edge Computing, WebAssembly, and Generative AI.</i>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **Computer Science & Engineering** student at **VIT Vellore** (CGPA: 8.88/10.0), bridging core CS fundamentals with modern web architecture to build fast, scalable, and intelligent applications.
-
-- 💻 **Currently:** Web Development Intern @ **NETMAXIN GROUP**
-- 🧠 **Focus:** Full-stack systems, Local-first compute (WebAssembly/Web Workers), and Generative AI (LLM Routing & Integration).
-- 🏆 **Hackathons:** Built an offline AI job-matching engine at **InnoHack 2.0**.
-- 🌐 **Portfolio:** Check out my portfolio at **[ndep-portfolio.vercel.app](https://ndep-portfolio.vercel.app/)**
-
----
-
-## 💼 Experience & Education
-
-<details open>
-<summary><b>Click to collapse / expand timeline</b></summary>
-
-<br/>
-
-**💻 Web Development Intern — NETMAXIN GROUP (Remote)** · `Sep 2026 - Present`
-- Developing responsive, interactive web applications as part of a distributed engineering team.
-- Building scalable user interfaces and optimizing client-side performance using modern frontend frameworks.
-
-**🚀 Hackathon Participant (AI & ML) — InnoHack 2.0, VIT Vellore** · `Aug 2026`
-- Built **KYC**, an offline in-browser AI job-skill matching progressive web application (PWA).
-- Implemented in-browser semantic skill-matching via client-side cosine similarity using `Transformers.js`.
-- Integrated the Gemini API to generate personalized learning roadmaps as an AI career coach.
-
-**🎓 Vellore Institute of Technology (VIT)** · `Expected 2028`
-- **Degree:** B.Tech in Computer Science & Engineering (Core)
-- **CGPA:** 8.88 / 10.0
-- **Coursework:** Data Structures & Algorithms, Operating Systems, DBMS, Theory of Computation, Computer Architecture.
-
-</details>
-
----
-
-## 📈 Live GitHub Snapshot
+## 📊 Live GitHub Snapshot
 
 <div align="center">
 
@@ -112,14 +74,14 @@ I am a **Computer Science & Engineering** student at **VIT Vellore** (CGPA: 8.88
 
 ---
 
-# 📌 Featured Architecture & Projects
+# 🏗️ Featured Architecture & Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🗜️ PerfectByte
+## 📦 PerfectByte
 ### Local-First File Compression
 
 <a href="https://perfectbyte.vercel.app/">
@@ -142,11 +104,14 @@ A privacy-first file utility that compresses images and PDFs down to an exact ta
 
 <td width="50%" valign="top">
 
-## 🌐 CarbonRoute
+## 🌱 CarbonRoute
 ### Carbon-Aware LLM Inference Router
 
 <a href="https://github.com/dheerajeshwar32/CarbonRoute">
-<img src="https://img.shields.io/badge/Repository-0F172A?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Frontend-0F172A?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/dheerajeshwar32/carbonroute-api">
+<img src="https://img.shields.io/badge/API-10B981?style=for-the-badge&logo=node.js"/>
 </a>
 
 An intelligent inference router that dynamically decides where to send LLM requests based on live carbon intensity, latency, and cost-priority weights.
@@ -220,28 +185,35 @@ Engineered a multi-lane adaptive signal control system using an Arduino-based ha
 
 ---
 
-## 🏗️ Frameworks & Libraries
+## 🎨 Frameworks & Libraries
 <div align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&perline=8"/>
 </div>
 
 ---
 
-## ⚡ Systems, AI & Cloud
+## ☁️ Systems, AI & Cloud
 <div align="center">
 <img src="https://skillicons.dev/icons?i=wasm,firebase,git,github,vercel,arduino&perline=8"/>
 </div>
 <br/>
 <div align="center">
-`OCI Generative AI` · `Gemini API` · `Transformers.js` · `Web Workers` · `Edge Compute`
+`OCI Generative AI` • `Gemini API` • `Transformers.js` • `Web Workers` • `Edge Compute`
 </div>
 
 ---
 
-# 📜 Certifications
+# 🎓 Education & Certifications
 
 <details>
-<summary><b>View Official Certifications</b></summary>
+<summary><b>View Academic Background & Certifications</b></summary>
+
+<br/>
+
+**🎓 Vellore Institute of Technology (VIT)** • `Expected 2028`
+- **Degree:** B.Tech in Computer Science & Engineering (Core)
+- **CGPA:** 8.88 / 10.0
+- **Coursework:** Data Structures & Algorithms, Operating Systems, DBMS, Theory of Computation, Computer Architecture.
 
 <br/>
 
