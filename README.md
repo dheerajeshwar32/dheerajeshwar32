@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdheerajeshwar32&label=Public%20Repos&query=%24.public_repos&color=3B82F6&style=for-the-badge&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=dheerajeshwar32&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/dheerajeshwar32?style=for-the-badge&logo=github&label=Followers&color=1E3A8A"/>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdheerajeshwar32&label=Following&query=%24.following&color=3B82F6&style=for-the-badge&logo=github"/>
 
@@ -65,9 +65,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dheerajeshwar32&theme=nord&hide_border=true&bg_color=0B1120&color=3B82F6&line=3B82F6&point=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=dheerajeshwar32&hide_border=true&bg_color=ffffff&color=1E3A8A&line=3B82F6&point=1E3A8A">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheerajeshwar32&hide_border=true&bg_color=ffffff&color=1E3A8A&line=3B82F6&point=1E3A8A" alt="Activity Graph"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dheerajeshwar32&theme=nord&hide_border=true&background=0B1120&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dheerajeshwar32&hide_border=true&background=ffffff&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajeshwar32&hide_border=true&background=ffffff&ring=1E3A8A&fire=1E3A8A&currStreakLabel=1E3A8A" alt="GitHub Streak"/>
 </picture>
 
 </div>
